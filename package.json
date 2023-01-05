@@ -1,0 +1,22 @@
+{
+  "name": "random-bbyp",
+  "version": "1.0.0",
+  "description": "generates a random bbyp pairing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ynpark/random-bbyp.git"
+  },
+  "author": "Yena Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ynpark/random-bbyp/issues"
+  },
+  "homepage": "https://github.com/ynpark/random-bbyp#readme",
+  "dependencies": {
+    "nthline": "^1.0.2"
+  }
+}
