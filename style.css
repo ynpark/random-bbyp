@@ -3,5 +3,7 @@
 }
 
 #rollbutton {
-  font-size: 2vw;
+  font-size: 2vw; 
+  margin:0 auto;
+  display:block;
 }
